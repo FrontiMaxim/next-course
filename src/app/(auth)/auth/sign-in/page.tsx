@@ -1,6 +1,6 @@
 "use client";
 
-import { SignInForm } from "@/features/sign-in/pub/sign-in-form";
+import { SignInForm } from "@/features/auth/pub/sign-in-form";
 import { Toaster } from "@/shared/components/ui/sonner";
 
 export default function SignIn() {
